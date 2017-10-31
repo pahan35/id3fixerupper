@@ -1,7 +1,7 @@
 
-zzzzzhant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.png" alt="Markdownify" width="200"></a>
+<h1 align="center">
   <br>
-  Electron Markdownify
+  <a href="#"><img src="http://www.evan.vin/images/other/fixer.png" alt="ID3 Fixer Upper" width="200"></a>
   <br>
 </h1>
 
@@ -21,13 +21,6 @@ zzzzzhant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/
   </a>
 </p>
 
----
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/DBgqdJGmRkXcTBUqTjHusmuF/amitmerchant1990/electron-markdownify'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/DBgqdJGmRkXcTBUqTjHusmuF/amitmerchant1990/electron-markdownify.svg' />
-</a>
-
----
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif)
 
