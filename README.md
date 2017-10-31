@@ -33,6 +33,8 @@
 # Download and install the package
 > npm i -g id3fix
 
+# Navigate to the folder where the MP3(s) are 
+
 # Start id3fix
 > id3fix
 
