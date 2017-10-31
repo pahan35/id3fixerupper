@@ -84,6 +84,6 @@ MIT
 
 ---
 
-> [evan.vin](evan.vin) &nbsp;&middot;&nbsp;
+> [evan.vin](http://www.evan.vin) &nbsp;&middot;&nbsp;
 > GitHub [@evanvin](https://github.com/evanvin) &nbsp;&middot;&nbsp;
 
