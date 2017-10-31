@@ -11,12 +11,12 @@
     "url": "git+https://github.com/evanvin/id3fixerupper.git"
   },
   "keywords": [
-    "[id3",
+    "id3",
     "fix",
     "mp3",
     "upper",
     "fixer",
-    "node]"
+    "node"
   ],
   "author": "Evan Vinciguerra <evan.vinciguerra@gmail.com> (https://github.com/evanvin)",
   "license": "ISC",
