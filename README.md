@@ -1,11 +1,11 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="http://www.evan.vin/images/other/fixer.png" alt="ID3 Fixer Upper" width="200"></a>
+  <img src="http://www.evan.vin/images/other/fixer.png" alt="ID3 Fixer Upper" width="300">
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A commandline tool to correct ID3 tags on MP3 files built with <a href="https://nodejs.org/" target="_blank">NodeJS</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
