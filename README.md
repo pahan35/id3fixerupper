@@ -7,10 +7,10 @@
 
 <h4 align="center">A commandline tool to correct ID3 tags on MP3 files built with <a href="https://nodejs.org/" target="_blank">NodeJS</a>.</h4>
 
+
 <p align="center">
-  
-  <a href="#">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="https://www.npmjs.com/package/id3fix">
+    <img src="https://badge.fury.io/js/id3fix.svg"
          alt="NPM">
   </a>
 </p>
