@@ -25,6 +25,24 @@
 
 ## How To Use
 
+### 1. You will need to set up a LastFM API account and get a key and secret
+
+### 2. Install using npm
+
+```bash
+# Download and install the package
+> npm i -g id3fix
+
+# Start id3fix
+> id3fix
+
+```
+
+
+
+
+## Download
+
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
