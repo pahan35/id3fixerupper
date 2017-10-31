@@ -21,7 +21,7 @@
   "author": "Evan Vinciguerra <evan.vinciguerra@gmail.com> (https://github.com/evanvin)",
   "license": "ISC",
   "bin": {
-    "id3fixerupper": "./fix.js"
+    "id3fix": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/evanvin/id3fixerupper/issues"
