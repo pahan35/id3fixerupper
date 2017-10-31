@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="http://www.evan.vin/images/other/fixer.png" alt="ID3 Fixer Upper" width="300">
+  <img src="http://www.evan.vin/images/other/fixer.png" alt="ID3 Fixer Upper" width="250">
   <br>
 </h1>
 
