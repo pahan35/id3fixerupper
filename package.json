@@ -38,7 +38,6 @@
     "inquirer": "3.3.0",
     "lastfmapi": "0.1.1",
     "log-update": "2.2.0",
-    "minimist": "1.2.0",
     "node-id3": "0.1.0",
     "preferences": "0.2.1",
     "request": "2.83.0",
