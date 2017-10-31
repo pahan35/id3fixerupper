@@ -6,12 +6,12 @@ var CLI         = require('clui');
 var figlet      = require('figlet');
 var inquirer    = require('inquirer');
 var Spinner     = CLI.Spinner;
-var request = require('request');
 var clui = require('clui');
 var auth = require('./lib/auth');
 var fix = require('./lib/fix');
 var lastFm;
 var hasPrefs = false;
+
 
 
 auth.lastFmAuth(function(err, authed, lfm) {
