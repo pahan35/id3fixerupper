@@ -72,7 +72,7 @@ This software uses code from several open source packages.
 - [clui](https://www.npmjs.com/package/clui)
 - [figlet](https://www.npmjs.com/package/figlet)
 - [get-artist-title](https://www.npmjs.com/package/get-artist-title)
-- [figlet](https://www.npmjs.com/package/inquirer)
+- [inquirer](https://www.npmjs.com/package/inquirer)
 - [lastfmapi](https://www.npmjs.com/package/lastfmapi)
 - [log-update](https://www.npmjs.com/package/log-update)
 - [node-id3](https://www.npmjs.com/package/node-id3)
