@@ -73,8 +73,9 @@ This software uses code from several open source packages.
 - [clear](https://www.npmjs.com/package/clear) - clears the terminal
 - [figlet](https://www.npmjs.com/package/figlet) - allows you to create ASCII Art from text
 - [get-artist-title](https://www.npmjs.com/package/get-artist-title) -  get artist and title from a string
-- [inquirer](https://www.npmjs.com/package/inquirer) - A collection of common interactive command line user interfaces
+- [inquirer](https://www.npmjs.com/package/inquirer) - a collection of common interactive command line user interfaces
 - [node-id3](https://www.npmjs.com/package/node-id3) - a ID3 tag library
+- [disconnect](https://www.npmjs.com/package/disconnect) - a client library that connects with Discogs.com API v2.0
 
 
 #### License
