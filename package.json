@@ -1,6 +1,6 @@
 {
   "name": "id3fix",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Fixes ID3 tags for mp3 files",
   "main": "index.js",
   "scripts": {
