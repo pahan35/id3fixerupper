@@ -62,6 +62,7 @@ To clone and ryun this application, ou'll need [Git](https://git-scm.com) and [N
 
 ## Future Improvements
 - Testing
+- Add spinner during fixing process
 
 
 ## Credits
