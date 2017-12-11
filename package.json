@@ -1,6 +1,6 @@
 {
   "name": "id3fix",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Fixes ID3 tags for mp3 files",
   "main": "index.js",
   "scripts": {
@@ -31,16 +31,12 @@
   "dependencies": {
     "chalk": "2.2.0",
     "clear": "0.0.1",
-    "clui": "0.3.6",
+    "disconnect": "^1.2.1",
     "figlet": "1.2.0",
     "fs": "0.0.1-security",
     "get-artist-title": "1.0.0",
     "inquirer": "3.3.0",
-    "lastfmapi": "0.1.1",
-    "log-update": "2.2.0",
-    "node-id3": "0.1.0",
-    "preferences": "0.2.1",
-    "request": "2.83.0",
-    "touch": "3.1.0"
+    "levenshtein": "^1.0.5",
+    "node-id3": "0.1.0"
   }
 }

@@ -2,38 +2,11 @@
 
 var chalk       = require('chalk');
 var clear       = require('clear');
-var CLI         = require('clui');
 var figlet      = require('figlet');
 var inquirer    = require('inquirer');
-var Spinner     = CLI.Spinner;
-var clui = require('clui');
-var auth = require('./lib/auth');
 var fix = require('./lib/fix');
-var lastFm;
-var hasPrefs = false;
 
-
-
-auth.lastFmAuth(function(err, authed, lfm) {
-	if (err) {
-		console.log(chalk.red(err.message));
-		switch (err.code) {
-			case 401:
-			console.log(chalk.red('Couldn\'t log you in. Please try again.'));
-			break;
-			case 422:
-			console.log(chalk.red('You already have an access token.'));
-			break;
-		}
-		return;
-	}
-	if (authed) {
-		lastFm = lfm;
-		if(!hasPrefs)
-			console.log(chalk.green('Successfully authenticated!'));
-		menu();
-	}
-});
+menu();
 
 
 function menu(){
@@ -59,13 +32,13 @@ function menu(){
 	]).then(function (answers) {
 
 		if(answers["choice"] === 'Fix a single MP3'){
-			fix.fixSingle(lastFm);
+			fix.fixSingle();
 		}
 		else if(answers["choice"] === 'Exit'){
 			exit();
 		}
 		else{
-			fix.fixMultiple(lastFm);
+			fix.fixMultiple();
 		}
 	});
 }
