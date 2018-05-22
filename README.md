@@ -81,6 +81,9 @@ This software uses code from several open source packages.
 - [node-id3](https://www.npmjs.com/package/node-id3) - a ID3 tag library
 - [disconnect](https://www.npmjs.com/package/disconnect) - a client library that connects with Discogs.com API v2.0
 
+## Contributors
+- [pahan35](https://github.com/pahan35)
+
 
 #### License
 
