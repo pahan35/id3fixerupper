@@ -8,6 +8,8 @@ var fix = require('./lib/fix');
 
 menu();
 
+setConsoleOptions();
+
 
 function menu(){
 
@@ -41,6 +43,16 @@ function menu(){
 			fix.fixMultiple();
 		}
 	});
+}
+
+function setConsoleOptions() {
+	const options = {};
+
+	if (process.argv.indexOf('--from-file-name') != -1) {
+		options.needFillTagsFromFileName = true;
+	}
+
+	fix.setSearchOptions(options);
 }
 
 function exit(){

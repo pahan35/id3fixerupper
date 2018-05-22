@@ -38,6 +38,9 @@
 
 ```
 
+### Possible options
+1. `--from-file-name` - enable retrieving tag data from filename if not found Discogs info. Notice: file with existing title tags won't be updated.
+
 
 
 
