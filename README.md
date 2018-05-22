@@ -21,7 +21,7 @@
 ## Key Features
 
 * Single file corrections
-* Mutliple file corrections
+* Multiple file corrections
 
 ## How To Use
 
